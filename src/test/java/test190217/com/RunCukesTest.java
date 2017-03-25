@@ -10,5 +10,5 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = ".", tags = "@live", plugin = {"pretty","html:target/report.html","json:target/report.json"},
 dryRun = false, strict = false)
-public class RunnerClassTest {
+public class RunCukesTest {
 }
