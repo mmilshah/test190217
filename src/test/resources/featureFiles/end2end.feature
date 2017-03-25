@@ -1,4 +1,4 @@
-@live
+@live1
 Feature: Add product to the cart
 
   Scenario Outline: Add product to the cart
